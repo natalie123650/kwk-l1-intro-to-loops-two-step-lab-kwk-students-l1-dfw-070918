@@ -3,7 +3,6 @@ def first_steps
   # "Right foot back", and "Stop", with sleep after each
 
 def first_steps
-  
   loop do 
   puts "Right foot back"
   sleep(0.5)
